@@ -20,4 +20,4 @@ flutter run
 ```
 
 ## Contribute
-Contributions are welcome. Please read our contributing guidelines before contributing.
+Contributions are welcome. Please read our [contributing guidelines](https://github.com/sahilarun/SpotiMax/blob/main/CONTRIBUTING.md) before contributing.
