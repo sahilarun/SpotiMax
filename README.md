@@ -1,3 +1,6 @@
+![Repo Banner](https://cdn.discordapp.com/attachments/1209916435980091492/1211917395191406633/spotimax.jpg?ex=65eff107&is=65dd7c07&hm=0c57e87c74e1e2c77eae9650060380ed96ce30472fb55887248b1d82a30f8ce0&)
+
+
 ## SpotiMax
 SpotiMax is an application that allows you to download your favorite playlists!
 
